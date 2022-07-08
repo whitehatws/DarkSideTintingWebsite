@@ -18,7 +18,7 @@ body {
 
 
 #landingBox {
-    background-image: url('/Images/palmtreebackground.jpg');
+    background-image: url('../Images/palmtreebackground.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
